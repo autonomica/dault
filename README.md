@@ -1,2 +1,2 @@
-# dault
-Implementation of the dault vocabulary and viewpoint
+# daut
+Implementation of the daut vocabulary and viewpoint
